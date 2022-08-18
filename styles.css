@@ -206,3 +206,7 @@
   .alert.hide {
     opacity: 0;
   }
+  h1{
+    color: white;
+    text-align: center;
+  }
